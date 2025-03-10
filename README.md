@@ -5,6 +5,9 @@ Designed for:
 - **Teachers:** Conduct lessons on function transformations.
 - **Students:** Visualize and interact with transformations to build intuition.  
 
+Demo video:
+https://github.com/user-attachments/assets/d5086af4-8db1-43b5-8758-e0a2baa32ca2
+
 Distinct features from GeoGebra and Desmos:
 - Multiple function transformations with a single click.
 - Records transformation steps, expressions, and exact transformed equations.
