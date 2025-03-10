@@ -6,7 +6,8 @@ Designed for:
 - **Students:** Visualize and interact with transformations to build intuition.  
 
 Demo video:
-https://github.com/user-attachments/assets/d5086af4-8db1-43b5-8758-e0a2baa32ca2
+
+[Awesome Function Transformer - Demo](https://github.com/user-attachments/assets/d5086af4-8db1-43b5-8758-e0a2baa32ca2)
 
 Distinct features from GeoGebra and Desmos:
 - Multiple function transformations with a single click.
